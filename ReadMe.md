@@ -17,7 +17,7 @@ The environment consists of a central map with specific functional areas:
 [![Watch the video](https://github.com/nithishreddy1101/EYRC_Holonomic_Robots_Delivery_System/blob/main/bots.png)](https://www.youtube.com/playlist?list=PLXR0p4xqMjKSUtnwPgtP43irasatlMKYk)
 
 ## Generated Paths of Bots while Delivering the BOTS
-[Graph Generated](https://github.com/nithishreddy1101/EYRC_Holonomic_Robots_Delivery_System/blob/main/hb_ws5/Task_5b_results/final_plot.png)
+[![Graph Generated](https://github.com/nithishreddy1101/EYRC_Holonomic_Robots_Delivery_System/blob/main/hb_ws5/Task_5b_results/final_plot.png)]
 
 
 ## 🚀 Key Features
