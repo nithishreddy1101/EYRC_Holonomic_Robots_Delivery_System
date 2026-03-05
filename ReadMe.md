@@ -14,7 +14,7 @@ The environment consists of a central map with specific functional areas:
 * `Frostbite`: Specialized holonomic drive robot.
 
 ## Playlist
-[![Watch the video](https://github.com/nithishreddy1101/EYRC_Holonomic_Robot_Delivery_System/blob/main/bots.png)](https://www.youtube.com/playlist?list=PLXR0p4xqMjKSUtnwPgtP43irasatlMKYk)
+[![Watch the video](https://github.com/nithishreddy1101/EYRC_Holonomic_Robots_Delivery_System/blob/main/bots.png)](https://www.youtube.com/playlist?list=PLXR0p4xqMjKSUtnwPgtP43irasatlMKYk)
 
 
 ## 🚀 Key Features
