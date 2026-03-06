@@ -19,7 +19,7 @@ The environment consists of a central map with specific functional areas:
 ## Areana 
 ![Graph Generated](https://github.com/nithishreddy1101/EYRC_Holonomic_Robots_Delivery_System/blob/main/arena/camera_image.png)
 
-## Generated Paths of Bots while Delivering the BOTS
+## Generated Paths of Bots while Delivering the Crates
 ![Graph Generated](https://github.com/nithishreddy1101/EYRC_Holonomic_Robots_Delivery_System/blob/main/hb_ws5/Task_5b_results/final_plot.png)
 
 
@@ -44,7 +44,7 @@ The environment consists of a central map with specific functional areas:
 
 | Robot Name | Drive Type | Primary Role |
 | --- | --- | --- |
-| **Glyco** | Holonomic/Omni | Heavy Lifting / Sorting |
-| **Crystal** | Holonomic/Omni | High-Speed Transport |
-| **Frostbite** | Holonomic/Omni | Precision Placement |
+| **Glyco** | Holonomic/Omni |
+| **Crystal** | Holonomic/Omni |
+| **Frostbite** | Holonomic/Omni |
 ---
